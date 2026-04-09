@@ -1,5 +1,5 @@
 # Six-Storey-Western-Cape-Seismic-Design
-This project features the seismic design of a sex storey building located in Western Cape South Africa. SANS codes under the SANS 10160 suite have been used in the designing of this building, to ensure that is not only safe but also adheres to South African standards
+This project features the seismic design of a six storey building located in Western Cape South Africa. SANS codes under the SANS 10160 suite have been used in the designing of this building, to ensure that is not only safe but also adheres to South African standards
 ![Lucid_Origin_a_cinematic_photo_of_a_7_storey_building_with_lar_0](https://github.com/user-attachments/assets/27a9c9fe-876e-40a7-9ee4-8c0642a4f9f8)
 
 											
