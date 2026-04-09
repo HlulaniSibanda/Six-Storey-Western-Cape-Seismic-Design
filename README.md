@@ -325,3 +325,5 @@ B17-B18 and B19-B20-B21"
 	The design base shear force of 2 632.04 kN is now distributed along the height of the building as per clause 7.5.3 of SANS 10160-4:2009. This distribution is shown in Table 1.														
 															
 <img width="1481" height="756" alt="image" src="https://github.com/user-attachments/assets/87409657-508e-4dfb-8660-a0e0ae7f4757" />
+
+<img width="862" height="1248" alt="Lateral forces and torsional moments v2" src="https://github.com/user-attachments/assets/6b47f241-cbbe-4d94-a5da-db4956011764" />
