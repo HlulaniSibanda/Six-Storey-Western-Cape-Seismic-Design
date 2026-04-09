@@ -326,4 +326,36 @@ B17-B18 and B19-B20-B21"
 															
 <img width="1481" height="756" alt="image" src="https://github.com/user-attachments/assets/87409657-508e-4dfb-8660-a0e0ae7f4757" />
 
+														
+	Accidental Eccentricity Design													
+														
+	According to SANS 10160-4:2009 Clause 7.5.4.3:													
+	The formula for accidental eccentricity is given by : ed = es +/- 0.05L													
+	where													
+	es = structural (static) eccentricity, which is the distance between the centre of mass and the centre of stiffness													
+	L = dimension of the building perpendicular to the direction of the applied forces													
+														
+	Since the building is symmetrical on all sides, es = 0													
+	L = 22.5m													
+	ed = +/-0.05(22.5)													
+	ed = +/- 1.125m													
+														
+	Since the centre of mass and the centre of stiffness coincide in the present case, the eccentricity from the centre of stiffness is also1.125m													
+	Therefore the laterl for Qi acts at the centre of stiffness accompanied by a clockwise or anti-clowise torsional moment (+1.125 Qi kNm or -1.125 Qi kNm)													
+														
+	Note that the building structure is identical along the X- and Z- directions, and hence, the fundamental time period and the earthquake													
+	forces are the same in the two directions.													
+														
+	Torsinal Moments 													
+	Storey	Lateral Force Qi (kN)	Design eccentricity ed (m)	Torsional Moment (kNm)										
+	7	940.68	1.125	1058.267681										
+	6	764.74	1.125	860.3269891										
+	5	491.37	1.125	552.7963981										
+	4	278.23	1.125	313.0038227										
+	3	125.29	1.125	140.949263										
+	2	31.25	1.125	35.15165819										
+	1	0.49	1.125	0.549188356										
+<img width="1349" height="780" alt="image" src="https://github.com/user-attachments/assets/9fbac824-2394-431b-a349-8182f5d419be" />
+
+
 <img width="862" height="1248" alt="Lateral forces and torsional moments v2" src="https://github.com/user-attachments/assets/6b47f241-cbbe-4d94-a5da-db4956011764" />
