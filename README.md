@@ -358,5 +358,28 @@ B17-B18 and B19-B20-B21"
 	1	0.49	1.125	0.549188356										
 <img width="1349" height="780" alt="image" src="https://github.com/user-attachments/assets/9fbac824-2394-431b-a349-8182f5d419be" />
 
+## Torsional Moments and lateral forces 
 
 <img width="862" height="1248" alt="Lateral forces and torsional moments v2" src="https://github.com/user-attachments/assets/6b47f241-cbbe-4d94-a5da-db4956011764" />
+
+## FEA seismic analysis deformation results
+
+<img width="1555" height="782" alt="Final Analysis" src="https://github.com/user-attachments/assets/6564ee6d-2d24-44dd-8b39-38e7191700f2" />
+
+## Analytical model from Revit
+
+<img width="1290" height="742" alt="Analytical model from Revit" src="https://github.com/user-attachments/assets/cb24b245-053d-4a18-8d5d-2a7d4cbbbc2a" />
+
+## Revit 3D model
+
+<img width="943" height="747" alt="Revit 3D model" src="https://github.com/user-attachments/assets/3531761b-e146-4261-ac26-f6a154405492" />
+
+## Simple cases/ load combinations
+
+<img width="873" height="787" alt="Simple cases" src="https://github.com/user-attachments/assets/6b64c7d3-29b7-4cd3-9396-ae123bd8ffab" />
+
+## Reactions results
+
+<img width="847" height="841" alt="Results" src="https://github.com/user-attachments/assets/92b80a6c-f10b-4ee9-b5b0-d813ff0574a6" />
+
+
